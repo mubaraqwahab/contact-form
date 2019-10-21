@@ -1,2 +1,2 @@
 # contact-form
-A simple contact form using HTML and CSS.
+A simple contact form created using HTML and CSS.
