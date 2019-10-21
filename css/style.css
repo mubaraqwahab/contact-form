@@ -1,0 +1,40 @@
+body {
+    background-color: cornflowerblue;
+}
+body * {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(72, 72, 72);
+    border-radius: 5px;
+}
+.container {
+    background-color: white;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 60%;
+}
+h2 {
+    text-align: center;
+}
+form>* {
+    display: block;
+    border: 1px solid lightgray;
+    margin: 10px auto;
+}
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    font-size: 1rem;
+}
+textarea {
+    min-height: 5rem;
+}
+button {
+    padding: 15px 30px;
+    color: white;
+    background-color: blue;
+    border: none;
+    margin-top: 20px;
+}
+button:hover {
+    background: darkblue;
+}
