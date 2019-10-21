@@ -1,2 +1,2 @@
-# media-gallery
-A media gallery assignment using HTML and CSS.
+# contact-form
+A simple contact form using HTML and CSS.
