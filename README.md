@@ -2,7 +2,9 @@
 A simple contact form created using HTML and CSS.
 
 ## Demo
-Visit https://mubaraqwahab.github.io/contact-form/ to see it live
+Visit https://mubaraqwahab.github.io/contact-form/ to see it live 
+
+[Link](/LICENSE)
 
 ## License
 [MIT License](https://github.com/mubaraqwahab/contact-form/blob/master/LICENSE)
